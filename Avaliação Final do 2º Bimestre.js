@@ -29,12 +29,12 @@ function someFun(p, callback) {
   // Quarta Questão
   
   /**
-   * No console aparecera nessa ordem:
-   * 4
-   * 1
-   * 5
-   * 1
-   */
+    A parecera nessa ordem
+    4
+    1
+    5
+    1
+   /
   
   // Quinta Questão
   
